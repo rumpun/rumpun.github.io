@@ -1,6 +1,6 @@
 baseURL = "https://rumpun.github.io/"
 languageCode = "en-us"
-title = "Hi Folks"
+title = "Hello !"
 copyright = "© XJJ 2022"
 googleAnalytics = ""
 
@@ -15,14 +15,14 @@ theme = "minima"
 
 # Author has some of your information to be shown on the home page.
 [author]
-name = "XJJ"
-slogon = "A tech lover from Earth 🌍"
-description = "This is Minima, a clean and minimal Hugo theme porting from the [Hexo Minima](https://github.com/adisaktijrs/hexo-theme-minima). Except for everything from Hexo Minima like dark/light mode, Hugo Minima supports KaTeX, Mermaid, comments and some taxonomies like categories, series and tags. I created this using SASS, VanillaJS and the most importantly, Hugo. 😁"
+name = "Rumpun"
+slogon = "Bapak dari seorang 👩 yang menggemaskan "
+description = "Blog ini akan berisi tulisan pribadi saya  baik yang baru ditulis atau tulisan lama yang masih sempat terselamatkan. 😁"
 
 
 [params]
 # iam is the beginning words of your self-introduction.
-iam = "I am"
+iam = "Aku"
 # The subtitle will be shown after the title of your blog site.
 # e.g. "title - subtitle".
 subtitle = ""
@@ -104,11 +104,11 @@ svg = ""
 # the feeds will be displayed in the home page. Note that the feeds
 # providers have to make their 'Access-Control-Allow-Origin' contain
 # your domain, otherwise the feeds cannot be fetched.
-[params.friends]
-feeds = ["https://h.xjj.pub/index.xml"]
-topk = 3
-title = "Friends' Posts"
-proxy = "" # reserved
+# [params.friends]
+#feeds = ["https://h.xjj.pub/index.xml"]
+# topk = 3
+# title = "Friends' Posts"
+# proxy = "" # reserved
 
 
 # Menu.main is an array that's used to decide what entries can be shown
