@@ -22,7 +22,7 @@ description = "Blog ini akan berisi tulisan pribadi saya  baik yang baru ditulis
 
 [params]
 # iam is the beginning words of your self-introduction.
-iam = "Aku"
+iam = "Namaku"
 # The subtitle will be shown after the title of your blog site.
 # e.g. "title - subtitle".
 subtitle = ""
