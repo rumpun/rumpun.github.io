@@ -5,4 +5,4 @@ draft: false
 type: about
 ---
 
-Rumpun.Me adalah blog dari Serumpun Mego
+Saya Rumpun, penggemar kopi, suka menulis sebagai catatan pribadi.

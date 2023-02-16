@@ -1,13 +1,13 @@
 ---
 author: "Serumpun Mego"
-title: "V60 Coffee Calculator"
+title: "V60 Recipe"
 date: 2022-10-31T09:44:35+07:00
 toc: true
 draft: false
 categories: ["Coffee"]
 
 ---
-## V60 Coffee Calculator
+## V60 Coffee Recipe
 
 - [x] Liquid size : 210 ml
 - [x] Ground coffee : 15 g
