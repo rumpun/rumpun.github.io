@@ -1,6 +1,6 @@
 baseURL = "https://rumpun.github.io/"
 languageCode = "en-us"
-title = "Hello !"
+title = "Hello :)"
 copyright = "© XJJ 2022"
 googleAnalytics = ""
 
@@ -15,14 +15,14 @@ theme = "minima"
 
 # Author has some of your information to be shown on the home page.
 [author]
-name = "Rumpun"
-slogon = "Bapak dari seorang putri yang menggemaskan "
-description = "Blog ini akan berisi tulisan pribadi saya  baik yang baru ditulis atau tulisan lama yang masih bisa terselamatkan. 😁"
+name = "Hello :)"
+slogon = "Saya Rumpun, bapak dari seorang putri yang menggemaskan "
+description = "Blog ini akan berisi tulisan pribadi saya, baik yang baru ditulis atau tulisan lama yang masih bisa terselamatkan. 😁"
 
 
 [params]
 # iam is the beginning words of your self-introduction.
-iam = "Namaku"
+# iam = "Namaku"
 # The subtitle will be shown after the title of your blog site.
 # e.g. "title - subtitle".
 subtitle = ""
