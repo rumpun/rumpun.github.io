@@ -1,1 +1,54 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tags on Serumpun Mego</title><link>https://rumpun.github.io/tags/</link><description>Recent content in Tags on Serumpun Mego</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 20 Mar 2025 21:31:56 +0700</lastBuildDate><atom:link href="https://rumpun.github.io/tags/index.xml" rel="self" type="application/rss+xml"/><item><title>Film</title><link>https://rumpun.github.io/tags/film/</link><pubDate>Thu, 20 Mar 2025 21:31:56 +0700</pubDate><guid>https://rumpun.github.io/tags/film/</guid><description/></item><item><title>Lagu</title><link>https://rumpun.github.io/tags/lagu/</link><pubDate>Thu, 20 Mar 2025 21:31:56 +0700</pubDate><guid>https://rumpun.github.io/tags/lagu/</guid><description/></item><item><title>Coffee</title><link>https://rumpun.github.io/tags/coffee/</link><pubDate>Wed, 28 Jul 2021 21:26:04 +0700</pubDate><guid>https://rumpun.github.io/tags/coffee/</guid><description/></item><item><title>Morning</title><link>https://rumpun.github.io/tags/morning/</link><pubDate>Wed, 28 Jul 2021 21:26:04 +0700</pubDate><guid>https://rumpun.github.io/tags/morning/</guid><description/></item><item><title>Muli</title><link>https://rumpun.github.io/tags/muli/</link><pubDate>Thu, 27 Feb 2020 16:52:34 +0700</pubDate><guid>https://rumpun.github.io/tags/muli/</guid><description/></item><item><title>Rania</title><link>https://rumpun.github.io/tags/rania/</link><pubDate>Thu, 27 Feb 2020 16:52:34 +0700</pubDate><guid>https://rumpun.github.io/tags/rania/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Serumpun Mego</title>
+    <link>http://localhost:1313/tags/</link>
+    <description>Recent content in Tags on Serumpun Mego</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 20 Mar 2025 21:31:56 +0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Film</title>
+      <link>http://localhost:1313/tags/film/</link>
+      <pubDate>Thu, 20 Mar 2025 21:31:56 +0700</pubDate>
+      <guid>http://localhost:1313/tags/film/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Lagu</title>
+      <link>http://localhost:1313/tags/lagu/</link>
+      <pubDate>Thu, 20 Mar 2025 21:31:56 +0700</pubDate>
+      <guid>http://localhost:1313/tags/lagu/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Coffee</title>
+      <link>http://localhost:1313/tags/coffee/</link>
+      <pubDate>Wed, 28 Jul 2021 21:26:04 +0700</pubDate>
+      <guid>http://localhost:1313/tags/coffee/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Morning</title>
+      <link>http://localhost:1313/tags/morning/</link>
+      <pubDate>Wed, 28 Jul 2021 21:26:04 +0700</pubDate>
+      <guid>http://localhost:1313/tags/morning/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Muli</title>
+      <link>http://localhost:1313/tags/muli/</link>
+      <pubDate>Thu, 27 Feb 2020 16:52:34 +0700</pubDate>
+      <guid>http://localhost:1313/tags/muli/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Rania</title>
+      <link>http://localhost:1313/tags/rania/</link>
+      <pubDate>Thu, 27 Feb 2020 16:52:34 +0700</pubDate>
+      <guid>http://localhost:1313/tags/rania/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

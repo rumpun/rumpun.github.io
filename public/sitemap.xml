@@ -1,1 +1,44 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url><loc>https://rumpun.github.io/tags/film/</loc><lastmod>2025-03-20T21:31:56+07:00</lastmod></url><url><loc>https://rumpun.github.io/</loc><lastmod>2025-03-20T21:31:56+07:00</lastmod></url><url><loc>https://rumpun.github.io/tags/lagu/</loc><lastmod>2025-03-20T21:31:56+07:00</lastmod></url><url><loc>https://rumpun.github.io/posts/</loc><lastmod>2025-03-20T21:31:56+07:00</lastmod></url><url><loc>https://rumpun.github.io/posts/setelah-aftersun/</loc><lastmod>2025-03-20T21:31:56+07:00</lastmod></url><url><loc>https://rumpun.github.io/tags/</loc><lastmod>2025-03-20T21:31:56+07:00</lastmod></url><url><loc>https://rumpun.github.io/tags/coffee/</loc><lastmod>2021-07-28T21:26:04+07:00</lastmod></url><url><loc>https://rumpun.github.io/tags/morning/</loc><lastmod>2021-07-28T21:26:04+07:00</lastmod></url><url><loc>https://rumpun.github.io/posts/a-v60-coffee-moment/</loc><lastmod>2021-07-28T21:26:04+07:00</lastmod></url><url><loc>https://rumpun.github.io/about/</loc><lastmod>2020-03-28T18:40:08+07:00</lastmod></url><url><loc>https://rumpun.github.io/tags/muli/</loc><lastmod>2020-02-27T16:52:34+07:00</lastmod></url><url><loc>https://rumpun.github.io/tags/rania/</loc><lastmod>2020-02-27T16:52:34+07:00</lastmod></url><url><loc>https://rumpun.github.io/posts/rania/</loc><lastmod>2020-02-27T16:52:34+07:00</lastmod></url></urlset>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:1313/tags/film/</loc>
+    <lastmod>2025-03-20T21:31:56+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-03-20T21:31:56+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/lagu/</loc>
+    <lastmod>2025-03-20T21:31:56+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2025-03-20T21:31:56+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/setelah-aftersun/</loc>
+    <lastmod>2025-03-20T21:31:56+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-03-20T21:31:56+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/coffee/</loc>
+    <lastmod>2021-07-28T21:26:04+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/morning/</loc>
+    <lastmod>2021-07-28T21:26:04+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/a-v60-coffee-moment/</loc>
+    <lastmod>2021-07-28T21:26:04+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/about/</loc>
+    <lastmod>2020-03-28T18:40:08+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/muli/</loc>
+    <lastmod>2020-02-27T16:52:34+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/rania/</loc>
+    <lastmod>2020-02-27T16:52:34+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/rania/</loc>
+    <lastmod>2020-02-27T16:52:34+07:00</lastmod>
+  </url>
+</urlset>
