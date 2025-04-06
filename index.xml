@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Serumpun Mego</title>
+    <link>https://rumpun.github.io/</link>
+    <description>Recent content in Home on Serumpun Mego</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 06 Apr 2025 16:57:12 +0700</lastBuildDate>
+    <atom:link href="https://rumpun.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Halo</title>
+      <link>https://rumpun.github.io/posts/halo/</link>
+      <pubDate>Sun, 06 Apr 2025 16:57:12 +0700</pubDate>
+      <guid>https://rumpun.github.io/posts/halo/</guid>
+      <description>&lt;p&gt;Test&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
