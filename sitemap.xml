@@ -2,40 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://rumpun.github.io/tags/aftersun/</loc>
+    <loc>http://localhost:1313/tags/aftersun/</loc>
     <lastmod>2025-03-11T12:55:56+07:00</lastmod>
   </url><url>
-    <loc>https://rumpun.github.io/posts/aftersun-underpressure/</loc>
+    <loc>http://localhost:1313/posts/aftersun-underpressure/</loc>
     <lastmod>2025-03-11T12:55:56+07:00</lastmod>
   </url><url>
-    <loc>https://rumpun.github.io/tags/film/</loc>
+    <loc>http://localhost:1313/tags/film/</loc>
     <lastmod>2025-03-11T12:55:56+07:00</lastmod>
   </url><url>
-    <loc>https://rumpun.github.io/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2025-03-11T12:55:56+07:00</lastmod>
   </url><url>
-    <loc>https://rumpun.github.io/tags/lagu/</loc>
+    <loc>http://localhost:1313/tags/lagu/</loc>
     <lastmod>2025-03-11T12:55:56+07:00</lastmod>
   </url><url>
-    <loc>https://rumpun.github.io/posts/</loc>
+    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2025-03-11T12:55:56+07:00</lastmod>
   </url><url>
-    <loc>https://rumpun.github.io/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-03-11T12:55:56+07:00</lastmod>
   </url><url>
-    <loc>https://rumpun.github.io/tags/under-pressure/</loc>
+    <loc>http://localhost:1313/tags/under-pressure/</loc>
     <lastmod>2025-03-11T12:55:56+07:00</lastmod>
   </url><url>
-    <loc>https://rumpun.github.io/posts/v60-andalan/</loc>
+    <loc>http://localhost:1313/about/</loc>
+    <lastmod>2022-02-07T20:00:00+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/v60-andalan/</loc>
     <lastmod>2020-11-07T18:05:13+07:00</lastmod>
   </url><url>
-    <loc>https://rumpun.github.io/tags/muli/</loc>
+    <loc>http://localhost:1313/tags/muli/</loc>
     <lastmod>2019-08-03T18:05:13+07:00</lastmod>
   </url><url>
-    <loc>https://rumpun.github.io/posts/muli/</loc>
+    <loc>http://localhost:1313/posts/muli/</loc>
     <lastmod>2019-08-03T18:05:13+07:00</lastmod>
   </url><url>
-    <loc>https://rumpun.github.io/tags/rania/</loc>
+    <loc>http://localhost:1313/tags/rania/</loc>
     <lastmod>2019-08-03T18:05:13+07:00</lastmod>
   </url>
 </urlset>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rania on Serumpun Mego</title>
-    <link>https://rumpun.github.io/tags/rania/</link>
+    <link>http://localhost:1313/tags/rania/</link>
     <description>Recent content in Rania on Serumpun Mego</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 03 Aug 2019 18:05:13 +0700</lastBuildDate>
-    <atom:link href="https://rumpun.github.io/tags/rania/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/rania/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Rania</title>
-      <link>https://rumpun.github.io/posts/muli/</link>
+      <link>http://localhost:1313/posts/muli/</link>
       <pubDate>Sat, 03 Aug 2019 18:05:13 +0700</pubDate>
-      <guid>https://rumpun.github.io/posts/muli/</guid>
+      <guid>http://localhost:1313/posts/muli/</guid>
       <description>Surat pertama dari bapak untuk Rania.</description>
     </item>
   </channel>
