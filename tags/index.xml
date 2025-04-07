@@ -2,52 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Serumpun Mego</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://rumpun.github.io/tags/</link>
     <description>Recent content in Tags on Serumpun Mego</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 11 Mar 2025 12:55:56 +0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://rumpun.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Aftersun</title>
-      <link>http://localhost:1313/tags/aftersun/</link>
+      <link>https://rumpun.github.io/tags/aftersun/</link>
       <pubDate>Tue, 11 Mar 2025 12:55:56 +0700</pubDate>
-      <guid>http://localhost:1313/tags/aftersun/</guid>
+      <guid>https://rumpun.github.io/tags/aftersun/</guid>
       <description></description>
     </item>
     <item>
       <title>Film</title>
-      <link>http://localhost:1313/tags/film/</link>
+      <link>https://rumpun.github.io/tags/film/</link>
       <pubDate>Tue, 11 Mar 2025 12:55:56 +0700</pubDate>
-      <guid>http://localhost:1313/tags/film/</guid>
+      <guid>https://rumpun.github.io/tags/film/</guid>
       <description></description>
     </item>
     <item>
       <title>Lagu</title>
-      <link>http://localhost:1313/tags/lagu/</link>
+      <link>https://rumpun.github.io/tags/lagu/</link>
       <pubDate>Tue, 11 Mar 2025 12:55:56 +0700</pubDate>
-      <guid>http://localhost:1313/tags/lagu/</guid>
+      <guid>https://rumpun.github.io/tags/lagu/</guid>
       <description></description>
     </item>
     <item>
       <title>Under Pressure</title>
-      <link>http://localhost:1313/tags/under-pressure/</link>
+      <link>https://rumpun.github.io/tags/under-pressure/</link>
       <pubDate>Tue, 11 Mar 2025 12:55:56 +0700</pubDate>
-      <guid>http://localhost:1313/tags/under-pressure/</guid>
+      <guid>https://rumpun.github.io/tags/under-pressure/</guid>
       <description></description>
     </item>
     <item>
       <title>Muli</title>
-      <link>http://localhost:1313/tags/muli/</link>
+      <link>https://rumpun.github.io/tags/muli/</link>
       <pubDate>Sat, 03 Aug 2019 18:05:13 +0700</pubDate>
-      <guid>http://localhost:1313/tags/muli/</guid>
+      <guid>https://rumpun.github.io/tags/muli/</guid>
       <description></description>
     </item>
     <item>
       <title>Rania</title>
-      <link>http://localhost:1313/tags/rania/</link>
+      <link>https://rumpun.github.io/tags/rania/</link>
       <pubDate>Sat, 03 Aug 2019 18:05:13 +0700</pubDate>
-      <guid>http://localhost:1313/tags/rania/</guid>
+      <guid>https://rumpun.github.io/tags/rania/</guid>
       <description></description>
     </item>
   </channel>
